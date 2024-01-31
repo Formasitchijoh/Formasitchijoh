@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open source, Web Performance , Blockchain technology and Personal development 
 - 🌱 The main technologies i use are Typescript, NextJs, React, React Native and NodeJs
 - 💞️ I’m looking to collaborate on any project I can learn from and improve
-- 📫 How to reach me through formasitf@gmail.com or 
+- 📫 How to reach me through formasitf@gmail.com
 
 <!---
 Formasitchijoh/Formasitchijoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
