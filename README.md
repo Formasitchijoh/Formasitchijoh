@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Formasit, a Software Engineer
 - 👀 I’m interested in Open source, Web Performance , Blockchain technology and Personal development 
-- 🌱 The main technologies I use are Typescript, Python, Php and VueJS
+- 🌱 The main technologies I use are Typescript, Python, PHP and VueJS
 - 💞️ I’m looking to collaborate on any project I can learn from and improve
 - 📫 How to reach me through formasitf@gmail.com
 
